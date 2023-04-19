@@ -4,7 +4,7 @@
   "description": "OpenAPI/ Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown",
   "main": "lib/index.js",
   "bin": {
-    "widdershins": "./widdershins.js",
+    "widdershins-x": "./widdershins.js",
     "testRunner": "./testRunner.js"
   },
   "directories": {
